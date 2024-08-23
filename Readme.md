@@ -6,11 +6,6 @@ The Key 🗝 Generation Tool for
 **1. Mud Racing 
 2. Mow and Trim** Hamster Kombat Games ar ADDED! 
 
-We Have BEST AND SAFE Hamster Key generator Tool [How ??](https://t.me/Insta_Buy_Follower/99)
-There are many Fake copies of my Key Generator Script Be aware and Use only Our Script
-
-You can generate keys for all the [9 Available games](#how-to-generate-keys-easy).
-👉 Don't forget to [generate your Hamster Keys](https://telegram.me/Hamster_Keys_Gen_Bot).
 
 ## Table of Contents
 - [How To Generate Keys](#how-to-generate-keys-easy)
@@ -26,13 +21,6 @@ You can generate keys for all the [9 Available games](#how-to-generate-keys-easy
 - [Credits](#credits)
 - [Disclaimer](#disclaimer)
 
-## Crypto Donation 💰
-Appreciate the hard work? Consider supporting further development by donating! Your contribution keeps the project alive.
-
-- **TON Blockchain**: `UQBS1Wv7uYIYqX186CDK6a91prH4z8aAXvLybs_CZv3YPvTk`
-- **Tron (TRX, TRC10/20)**: `TB3pWNNcvLnsiFEfy2vFF92rPaL14CUPZf`
-
-Your support is greatly appreciated!
 
 ## How To Generate Keys (Easy)
 **Method 1**  
@@ -69,7 +57,7 @@ The **Hamster Kombat Key Generator** is a tool designed to help gamers generate 
 - **Copy to Clipboard**: Easily copy generated promo codes to your clipboard.
 
 ## Contact
-For questions or support, reach out via [Telegram](https://telegram.me/Sam_Dm_bot).
+For questions or support, reach out via [Telegram](https://telegram.me/Mrkiller_1109).
 
 ## Usage
 1. **Select a Game**: Choose a game from the dropdown list.
