@@ -77,7 +77,7 @@ For questions or support, reach out via [Telegram](https://telegram.me/Mrkiller_
 If you found this project useful, please consider giving it a star on GitHub!
 
 ## Website
-Visit the website at [Hamster Kombat KEY Generator](https://shrs.link/foJ9YH)
+Visit the website at [Hamster Kombat KEY Generator](https://mrkillerdeveloper.github.io/Hamster-Kombat-Key-Generator/)
 
 ## Credits
 Developed by **Sam Richard**.
