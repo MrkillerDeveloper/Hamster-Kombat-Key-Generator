@@ -28,7 +28,7 @@ Generate using our
 👉👉👉 [Telegram Bot 1 ](http://telegram.me/Hamster_KeyToolBot) 👈👈👈
 
 **Method 2**  
-➡️➡️➡️Generate using our [Website]()⬅️⬅️⬅️⬅
+➡️➡️➡️Generate using our [Website](https://mrkillerdeveloper.github.io/Hamster-Kombat-Key-Generator/)⬅️⬅️⬅️⬅
 
 ## Description
 The **Hamster Kombat Key Generator** is a tool designed to help gamers generate promo codes for popular mobile games. With this generator, users can obtain promo codes quickly and efficiently, eliminating the need for tedious in-game tasks.
